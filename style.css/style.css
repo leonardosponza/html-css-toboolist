@@ -8,3 +8,43 @@
 .head{
     background-color: white;
 }
+/* fine css head */
+#task{
+    background-color:deepskyblue;
+    border-radius: 20%;
+    border-style:none;
+    font-size: 15px;
+    padding: 10px;
+    color: white;
+    
+}
+#section{
+    border-radius: 20%;
+    background-color: white;
+    font-size: 15px;
+    padding: 10px;
+    color:lightgray;
+    border-style: ridge;
+    border-color:lightgray;
+}
+#corpo{
+    background-color: red;
+    width: 50%;
+    margin:auto;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+#lineacentro{
+    color: lightgrey;
+   
+}
+.titoli{
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.triangolo{
+    vertical-align:sub;
+}
+/* inizio lista non ordinata */
