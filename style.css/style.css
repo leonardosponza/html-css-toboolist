@@ -73,7 +73,8 @@
     width: 70px;
     height: 25px;
     display: inline-block;
-    line-height: 20px;    
+    line-height: 20px; 
+    color: white;   
 }
 .cross{
     color:red;
@@ -90,26 +91,31 @@
     background-color:purple;
     border-radius: 20%;
     display: inline-block;
+    color: white;
 }
 #recruiting{
     background-color:teal;
     border-radius: 20%;
     display: inline-block;
+    color: white;
 }
 #mobile{
     background-color:orange;
     border-radius: 20%;
     display: inline-block;
+    color: white;
 }
 /* fine seconda lista non ordinata */
 #website{
     background-color:pink;
     border-radius: 20%;
     display: inline-block;
+    color: white;
 }
 #sales{
     background-color:greenyellow;
     border-radius: 20%;
     display: inline-block;
+    color: white;
 
 }
